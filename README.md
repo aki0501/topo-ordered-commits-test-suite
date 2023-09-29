@@ -1,4 +1,4 @@
-Project from CS 35L Software Construction Laboratory at UCLA, taught by Professor Paul Eggert in Winter 2023.
+Project from CS 35L Software Construction Laboratory at UCLA, taught by Professor Paul Eggert in Winter 2023. Assignment link: https://web.cs.ucla.edu/classes/winter23/cs35L/assign/assign6.html
 
 My code implementation is in topo-ordered-commits-test-suite/topo_order_commits.py, and my results are in test_results.py.
 
