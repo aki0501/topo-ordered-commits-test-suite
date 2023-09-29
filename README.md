@@ -1,3 +1,9 @@
+Project from CS 35L Software Construction Laboratory at UCLA, taught by Professor Paul Eggert in Winter 2023.
+
+My code implementation is in topo-ordered-commits-test-suite/topo_order_commits.py, and my results are in test_results.py.
+
+Instructions for running tests from the TA:
+
 # topo-ordered-commits-test-suite
 
 This test suite provides some test cases to help you get on the right track.
@@ -16,14 +22,14 @@ source venv/bin/activate
 pip3 install -U -r requirements.txt
 ```
 
-The command `source venv/bin/activate` sets up a virtual environment for Python, 
+The command `source venv/bin/activate` sets up a virtual environment for Python,
 which you should do every time you open up a shell to run this test suite.
 
-Then, repalce the body of the function `def topo_order_commits():` with your implementation, 
+Then, repalce the body of the function `def topo_order_commits():` with your implementation,
 i.e., `topo_order_commits` should be the top level function to kick-start the entire program.
 This is so that we can expose the function signature `topo_order_commits` to the test suite.
 
-In order to run the tests, simply type 
+In order to run the tests, simply type
 
 ```
 pytest
